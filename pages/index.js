@@ -8,7 +8,7 @@ function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>Bem-Vindo</title>
       </head>
-      <body>Olá</body>
+      <body>Teste página</body>
     </html>
   );
 }
